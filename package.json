@@ -9,7 +9,10 @@
   "dependencies": {
     "pm2": "~0.7.7",
     "colors": "~0.6.0",
-    "nodegit": "0.2.7"
+    "shelljs": "0.3.0",
+    "async" : "0.9.0",
+    "mkdirp": "~0.3.5",
+    "underscore" : "1.7.0"
   },
   "devDependencies": {
     "mocha": "~1.14.0"
